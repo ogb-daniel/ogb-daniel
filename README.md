@@ -1,7 +1,7 @@
 
 
-<h2> Hey there! I'm Cheta.</h2>
-
+<h2> Hey there! I'm Cheta,a Software Engineer 🧢🧙‍♂️</h2>
+<img height="200em" src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e476yw23dtrmj7w7z1zmmhrb2zlpu2nzpl0qxqg3ng8&rid=giphy.gif&ct=g"/>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -52,4 +52,3 @@
 <a href="mailto:ogbuikedaniel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ogbuikedaniel@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
