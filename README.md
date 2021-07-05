@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Cheta,a Software Engineer 🧢🧙‍♂️</h2>
+<h2> Yo Sup! I'm Cheta,a Software Engineer 🧢🧙‍♂️</h2>
 <img width="65%" src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e476yw23dtrmj7w7z1zmmhrb2zlpu2nzpl0qxqg3ng8&rid=giphy.gif&ct=g"/>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -25,7 +25,7 @@
     ![Tailwind](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwindcss)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
+  ![ReactNative](https://img.shields.io/npm/dm/react-native-badge-avatar.svg?style=flat-square)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -41,7 +41,7 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-   ![AfterEffects](https://img.shields.io/badge/-AfterEffects-333333?style=flat&logo=adobe-aftereffects)
+   ![AfterEffects](https://img.shields.io/badge/-AfterEffect-333333?style=flat&logo=adobe-aftereffect)
 
 <br/>
 
