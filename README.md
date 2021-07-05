@@ -49,7 +49,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/chetachukwu-ogbuike-97a2a7138/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ogb_daniel-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ogb_daniel"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ogb_daniel-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:ogbuikedaniel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ogbuikedaniel@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
