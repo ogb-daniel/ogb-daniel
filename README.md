@@ -25,7 +25,7 @@
     ![Tailwind](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwindcss)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![ReactNative](https://img.shields.io/npm/dm/react-native-badge-avatar.svg?style=flat-square)
+  ![ReactNative](https://img.shields.io/badge/-react-native-333333?style=flat&logo=react-native)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -41,7 +41,7 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-   ![AfterEffects](https://img.shields.io/badge/-AfterEffect-333333?style=flat&logo=adobe-aftereffect)
+   ![AfterEffects](https://img.shields.io/badge/-AfterEffect-333333?style=flat&logo=adobe-after-effect)
 
 <br/>
 
