@@ -1,6 +1,6 @@
 
 
-<h2> Yo Sup! I'm Cheta,a Software Engineer 🧢🧙‍♂️</h2>
+<h2>Software Engineer🧙‍♂️</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
